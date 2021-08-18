@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_lemonades.mk
+    $(LOCAL_DIR)/corvus_lemonades.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_lemonades-user \
-    aosp_lemonades-userdebug \
-    aosp_lemonades-eng
+    corvus_lemonades-user \
+    corvus_lemonades-userdebug \
+    corvus_lemonades-eng
