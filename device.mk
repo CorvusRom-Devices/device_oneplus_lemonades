@@ -469,6 +469,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     vendor.lineage.touch@1.0-service.oneplus_kona
 
+# TouchGestures
+PRODUCT_PACKAGES += \
+    TouchGestures
+
 # tri-state-key
 PRODUCT_PACKAGES += \
     KeyHandler \
