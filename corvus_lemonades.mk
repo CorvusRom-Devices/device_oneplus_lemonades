@@ -30,6 +30,7 @@ TARGET_BOOT_ANIMATION_RES := 1080
 # Corvus Maintainer
 CORVUS_MAINTAINER := TheTablaster
 RAVEN_LAIR := Official
+USE_PROTON := true
 
 # FOD
 FOD_ANIMATIONS := true
